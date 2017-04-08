@@ -1,1 +1,7 @@
-'use strict';
+$(function(){
+    'use strict';
+    
+    alert('Akademia108');
+})
+
+
